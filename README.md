@@ -36,6 +36,8 @@ To run this analysis, ensure you have the following R packages installed:
 4. **Summary Statistics**: 
    - Generate summary statistics for the cleaned dataset. This involves calculating means, medians, standard deviations, and other descriptive statistics to provide insights into the distribution and central tendencies of key variables.
 
+<img src="https://github.com/RoryQo/Research-Reproduction_Washington-Female-Socalization/blob/main/Graph1.jpg?raw=true" alt="Image" width=450px/>
+
 5. **Variable Generation**: 
    - Create new variables necessary for analysis, such as binary indicators for political party affiliation and squared terms for age. This step enhances the model’s ability to capture relationships in the data effectively.
 
@@ -48,6 +50,9 @@ df_105$repub <- ifelse(df_105$party==2,1,0)
 
 7. **Interpretation**: 
    - Interpret the coefficients from the regression models, focusing on how changes in the number of daughters relate to voting behavior on women's issues. This step also involves assessing the statistical significance of the results.
+
+<img src="https://github.com/RoryQo/Research-Reproduction_Washington-Female-Socalization/blob/main/Graph2.jpg?raw=true" alt="Image" width=450px/>
+
 
 8. **Comparative Analysis**: 
    - Investigate potential differences in the effects of having daughters on male versus female legislators. This includes estimating separate models for each group and analyzing interaction effects to determine if the influence of daughters differs based on the legislator's gender.
