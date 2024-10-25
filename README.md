@@ -70,6 +70,10 @@ df_105$repub <- ifelse(df_105$party==2,1,0)
 
 8. **Comparative Analysis**: 
    - Investigate potential differences in the effects of having daughters on male versus female legislators. This includes estimating separate models for each group and analyzing interaction effects to determine if the influence of daughters differs based on the legislator's gender.
+- Model A: Model 1
+- Model B: Model 1 on women only
+- Model C: Model 1 on men only
+- Model D: Model 1 with the addition of of $female$, $female\times ngirls$ and $female \times totchi$
 
 <img src="https://github.com/RoryQo/Research-Reproduction_Washington-Female-Socalization/blob/main/Graph4.jpg?raw=true" alt="Image" width=500px/>
 
