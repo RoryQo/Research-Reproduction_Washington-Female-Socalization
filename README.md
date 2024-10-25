@@ -57,6 +57,9 @@ df_105$repub <- ifelse(df_105$party==2,1,0)
 8. **Comparative Analysis**: 
    - Investigate potential differences in the effects of having daughters on male versus female legislators. This includes estimating separate models for each group and analyzing interaction effects to determine if the influence of daughters differs based on the legislator's gender.
 
+<img src="https://github.com/RoryQo/Research-Reproduction_Washington-Female-Socalization/blob/main/Graph4.jpg?raw=true" alt="Image" width=500px/>
+
+
 9. **Visualization**: 
    - Generate visual representations of the data and analysis results, such as bar charts and regression plots. These visualizations aid in communicating findings effectively and highlight important trends and relationships.
 
