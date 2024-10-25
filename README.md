@@ -8,7 +8,7 @@
 4. [Conclusion](#conclusion)
 
 ## Overview
-This project analyzes data from Ebonya Washington's 2008 paper, "Female Socialization: How Daughters Affect their Legislator Father's voting on Women's Issues," published in the *American Economic Review*. The study investigates whether having a daughter influences a legislator's voting behavior on women's issues.
+This project analyzes data from Ebonya Washington's 2008 paper, "Female Socialization: How Daughters Affect their Legislator Father's Voting on Women's Issues," published in the *American Economic Review*. The study investigates whether having a daughter influences a legislator's voting behavior on women's issues.
 
 ## Requirements
 To run this analysis, ensure you have the following R packages installed:
@@ -28,7 +28,7 @@ To run this analysis, ensure you have the following R packages installed:
 
 2. **Data Overview**: 
    - Analyze the initial dataset to understand its structure, including the number of observations and variables. This step involves checking for missing values and assessing the overall data quality.
-   - (full description of the data is available in Ebonya Washington's 2008 paper, "Female Socialization: How Daughters Affect their Legislator Father's voting on Women's Issues")
+   - (full description of the data is available in Ebonya Washington's 2008 paper, "Female Socialization: How Daughters Affect their Legislator Father's Voting on Women's Issues")
 
 3. **Data Cleaning**: 
    - Filter the dataset to include only observations from the 105th Congress. This step narrows down the analysis to a specific time frame that is relevant to the research question.
