@@ -55,6 +55,9 @@ df_105$repub <- ifelse(df_105$party==2,1,0)
 9. **Visualization**: 
    - Generate visual representations of the data and analysis results, such as bar charts and regression plots. These visualizations aid in communicating findings effectively and highlight important trends and relationships.
 
+<img src="https://github.com/RoryQo/Research-Reproduction_Washington-Female-Socalization/blob/main/graph3.jpg?raw=true" alt="Image" width=450px/>
+
+
 ## Conclusion
 This analysis seeks to replicate and extend the findings of Washington's original research by providing a detailed examination of how familial factors, specifically the presence of daughters, influence legislative behavior on women's issues.
 
