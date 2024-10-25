@@ -39,6 +39,10 @@ To run this analysis, ensure you have the following R packages installed:
 5. **Variable Generation**: 
    - Create new variables necessary for analysis, such as binary indicators for political party affiliation and squared terms for age. This step enhances the model’s ability to capture relationships in the data effectively.
 
+```{r encoding}
+df_105$repub <- ifelse(df_105$party==2,1,0)
+```
+
 6. **Model Estimation**: 
    - Estimate several linear regression models to analyze the impact of having daughters on the legislators’ voting on women's issues. Different models are constructed to account for various factors, allowing for a comprehensive understanding of the relationships at play.
 
