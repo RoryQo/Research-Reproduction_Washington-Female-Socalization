@@ -48,7 +48,7 @@ df_105$repub <- ifelse(df_105$party==2,1,0)
 
 6. **Model Estimation**: 
    - Estimate several linear regression models to analyze the impact of having daughters on the legislators’ voting on women's issues. Different models are constructed to account for various factors, allowing for a comprehensive understanding of the relationships at play.
-
+   - Full models can be viewed 
 <img src="https://github.com/RoryQo/Research-Reproduction_Washington-Female-Socalization/blob/main/Graph2.jpg?raw=true" alt="Image" width=500px/>
 
 
