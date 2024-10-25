@@ -77,6 +77,6 @@ Key insights include:
 - The analysis also reveals nuances in the effects of age and party affiliation, emphasizing the complexity of factors that shape voting behavior.
 - By comparing results across male and female legislators, the study highlights potential differences in how gender influences the relationship between familial factors and legislative behavior.
 
-Overall, the findings contribute to the broader discourse on gender and politics, suggesting that personal circumstances can play a significant role in shaping policy positions. Future research could expand on these insights by exploring additional variables or different contexts to further understand the dynamics at play.
+Overall, the findings contribute to the broader discourse on gender and politics, suggesting that personal circumstances can play a significant role in shaping policy positions. Future research could expand on these insights by exploring applications to the wider public voter base to further understand the dynamics of female socalization to the general (voting) public.
 
 For any questions or feedback, please feel free to reach out!
