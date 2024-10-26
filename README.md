@@ -101,7 +101,7 @@ This analysis seeks to replicate and extend the findings of Washington's origina
 Key insights include:
 
 - The positive association between the number of daughters and AAUW scores suggests that legislators with daughters may be more likely to support women's issues, indicating a potential impact of personal experiences on policy decisions.
-   -  This affect appears to be independent of the legislator's personal gender
+   -  This effect appears to be independent of the legislator's gender
 - The analysis also reveals nuances in the effects of age and party affiliation, emphasizing the complexity of factors that shape voting behavior.
 - By comparing results across male and female legislators, the study highlights potential differences in how gender influences the relationship between familial factors and legislative behavior.
 
