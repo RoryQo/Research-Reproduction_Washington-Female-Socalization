@@ -66,7 +66,11 @@ df_105$repub <- ifelse(df_105$party==2,1,0)
 
 7. **Interpretation**: 
    - Interpret the coefficients from the regression models, focusing on how changes in the number of daughters relate to voting behavior on women's issues. This step also involves assessing the statistical significance of the results.
-   - (Further details are in the conclusion section)
+
+      - **Personal gender of the legislator on voting score (aauw)**
+         - the interaction term with number of daughters is not significant indicating that there isnt a significantly different effect on voting behaviors between male and female legislators based on the number of daughters they have (holding all else constant. Additionally the interaction term of total children is not significant, indicating that there is not a significantly different effect on voting score between male and female legislators based on  the total number of children(holding all else constant).  In short no evidence that there is a difference, however legislators are a small population, so standard errors are quite high, maybe in a broader application there could be differences.
+      - **Age on voting score (aauw)**
+         - The coefficient for age is 0.814, indicating that on average as age increases so does aauw voting score.  This relationship however is not statistically significant even at the 90% confidence level.  The age squared term is negative, indicating that the effect of age on AAUW score decreases the older you get.  The the effect 'flips' is ~67.8 years of age.  Again the age squared term is not significant at the 90% confidence level.
 
 8. **Comparative Analysis**: 
    - Investigate potential differences in the effects of having daughters on male versus female legislators. This includes estimating separate models for each group and analyzing interaction effects to determine if the influence of daughters differs based on the legislator's gender.
@@ -90,9 +94,10 @@ This analysis seeks to replicate and extend the findings of Washington's origina
 Key insights include:
 
 - The positive association between the number of daughters and AAUW scores suggests that legislators with daughters may be more likely to support women's issues, indicating a potential impact of personal experiences on policy decisions.
+   -  This affect appears to be independent of the legislator's personal gender
 - The analysis also reveals nuances in the effects of age and party affiliation, emphasizing the complexity of factors that shape voting behavior.
 - By comparing results across male and female legislators, the study highlights potential differences in how gender influences the relationship between familial factors and legislative behavior.
 
-Overall, the findings contribute to the broader discourse on gender and politics, suggesting that personal circumstances can play a significant role in shaping policy positions. Future research could expand on these insights by exploring applications to the wider public voter base to further understand the dynamics of female socalization to the general (voting) public.
+Overall, the findings contribute to the broader discourse on gender and politics, suggesting that personal circumstances can play a significant role in shaping policy positions. Future research could expand on these insights by exploring applications to the wider public voter base to further understand the dynamics of female socialization to the general (voting) public.
 
 For any questions or feedback, please feel free to reach out!
