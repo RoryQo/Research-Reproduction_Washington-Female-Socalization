@@ -91,7 +91,7 @@ df_105$repub <- ifelse(df_105$party==2,1,0)
 9. **Visualization**: 
    - Generate visual representations of the data and analysis results, such as bar charts and regression plots. These visualizations aid in communicating findings effectively and highlight important trends and relationships.
 
-<img src="https://github.com/RoryQo/Research-Reproduction_Washington-Female-Socalization/blob/main/graph3.jpg?raw=true" alt="Image" width=500px/>
+<img src="https://github.com/RoryQo/Research-Reproduction_Washington-Female-Socalization/blob/main/Graph3.jpg?raw=true" alt="Image" width=500px/>
 
 ### Results
 
