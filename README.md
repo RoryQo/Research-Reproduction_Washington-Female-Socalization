@@ -1,8 +1,10 @@
 <h2 align="center">Reproducing Research: How Daughters Affect Their Legislator Fathers’ Voting on Women’s Issues</h2>      
     
 
-<p align="center"><strong>Table of Contents</strong></p>
 <table align="center">
+  <tr>
+    <td colspan="2" align="center"><strong>Table of Contents</strong></td>
+  </tr>
   <tr>
     <td>1.</td>
     <td><a href="#overview">Overview</a></td>
@@ -28,6 +30,7 @@
     <td><a href="#citations">Citations</a></td>
   </tr>
 </table>
+
 
 
 ### Overview
