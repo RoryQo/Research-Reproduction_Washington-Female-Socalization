@@ -1,13 +1,33 @@
 <h2 align="center">Reproducing Research: How Daughters Affect Their Legislator Fathers’ Voting on Women’s Issues</h2>      
     
 
-<p align="center">Table of Contents</p>  
-<p align="center">1. <a href="#overview">Overview</a></p>      
-<p align="center">2. <a href="#requirements">Requirements</a></p>  
-<p align="center">3. <a href="#analysis-steps">Analysis Steps</a></p>  
-<p align="center">4. <a href="#results">Results</a></p>  
-<p align="center">5. <a href="#conclusion">Conclusion</a></p>  
-<p align="center">6. <a href="#citations">Citations</a></p>  
+<p align="center">Table of Contents</p>
+<table align="center">
+  <tr>
+    <td>1.</td>
+    <td><a href="#overview">Overview</a></td>
+  </tr>
+  <tr>
+    <td>2.</td>
+    <td><a href="#requirements">Requirements</a></td>
+  </tr>
+  <tr>
+    <td>3.</td>
+    <td><a href="#analysis-steps">Analysis Steps</a></td>
+  </tr>
+  <tr>
+    <td>4.</td>
+    <td><a href="#results">Results</a></td>
+  </tr>
+  <tr>
+    <td>5.</td>
+    <td><a href="#conclusion">Conclusion</a></td>
+  </tr>
+  <tr>
+    <td>6.</td>
+    <td><a href="#citations">Citations</a></td>
+  </tr>
+</table>
 
 
 ### Overview
