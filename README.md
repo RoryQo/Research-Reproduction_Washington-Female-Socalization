@@ -6,30 +6,19 @@
     <td colspan="2" align="center"><strong>Table of Contents</strong></td>
   </tr>
   <tr>
-    <td>1.</td>
-    <td><a href="#overview">Overview</a></td>
+    <td>1. <a href="#overview">Overview</a></td>
+    <td>4. <a href="#results">Results</a></td>
   </tr>
   <tr>
-    <td>2.</td>
-    <td><a href="#requirements">Requirements</a></td>
+    <td>2. <a href="#requirements">Requirements</a></td>
+    <td>5. <a href="#conclusion">Conclusion</a></td>
   </tr>
   <tr>
-    <td>3.</td>
-    <td><a href="#analysis-steps">Analysis Steps</a></td>
-  </tr>
-  <tr>
-    <td>4.</td>
-    <td><a href="#results">Results</a></td>
-  </tr>
-  <tr>
-    <td>5.</td>
-    <td><a href="#conclusion">Conclusion</a></td>
-  </tr>
-  <tr>
-    <td>6.</td>
-    <td><a href="#citations">Citations</a></td>
+    <td>3. <a href="#analysis-steps">Analysis Steps</a></td>
+    <td>6. <a href="#citations">Citations</a></td>
   </tr>
 </table>
+
 
 
 
