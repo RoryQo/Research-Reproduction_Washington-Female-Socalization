@@ -61,7 +61,7 @@ df_105$repub <- ifelse(df_105$party==2,1,0)
      aauw_i = \beta_0 + \beta_1 ngirls_i + \beta_2 totchi + \beta_3 female_i + \beta_4 repub_i + \beta_5 age_i + \beta_6 age_i^2 + \epsilon_i
      ```
 <br>
-<img src="https://github.com/RoryQo/Research-Reproduction_Washington-Female-Socalization/blob/main/Graph2.jpg?raw=true" alt="Image" width=500px/>
+<img src="https://github.com/RoryQo/Research-Reproduction_Washington-Female-Socalization/blob/main/Graph2.jpg?raw=true" alt="Image" width=550px/>
 
 
 7. **Interpretation**: 
@@ -75,13 +75,13 @@ df_105$repub <- ifelse(df_105$party==2,1,0)
 - Model C: Model 1 on men only
 - Model D: Model 1 with the addition of of $female$, $female\times ngirls$ and $female \times totchi$
 
-<img src="https://github.com/RoryQo/Research-Reproduction_Washington-Female-Socalization/blob/main/Graph4.jpg?raw=true" alt="Image" width=500px/>
+<img src="https://github.com/RoryQo/Research-Reproduction_Washington-Female-Socalization/blob/main/Graph4.jpg?raw=true" alt="Image" width=550px/>
 
 
 9. **Visualization**: 
    - Generate visual representations of the data and analysis results, such as bar charts and regression plots. These visualizations aid in communicating findings effectively and highlight important trends and relationships.
 
-<img src="https://github.com/RoryQo/Research-Reproduction_Washington-Female-Socalization/blob/main/graph3.jpg?raw=true" alt="Image" width=450px/>
+<img src="https://github.com/RoryQo/Research-Reproduction_Washington-Female-Socalization/blob/main/graph3.jpg?raw=true" alt="Image" width=500px/>
 
 
 ## Conclusion
