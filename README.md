@@ -87,12 +87,12 @@ df_105$repub <- ifelse(df_105$party==2,1,0)
 
 ## Results
 
-- **Personal gender of the legislator on voting score (aauw)**
+- **Personal gender of the legislator on the voting score (aauw)**
 
-   - the interaction term with the number of daughters is not significant indicating that there isn't a significantly different effect on voting behaviors between male and female legislators based on the number of daughters they have (holding all else constant. Additionally the interaction term of total children is not significant, indicating that there is not a significantly different effect on voting score between male and female legislators based on  the total number of children(holding all else constant).  In short no evidence that there is a difference, however legislators are a small population, so standard errors are quite high, maybe in a broader application there could be differences.
+   - The interaction term with the number of daughters is not significant indicating that there isn't a significantly different effect on voting behaviors between male and female legislators based on the number of daughters they have (holding all else constant. Additionally, the interaction term of total children is not significant, indicating that there is not a significantly different effect on voting score between male and female legislators based on  the total number of children(holding all else constant).  In short no evidence that there is a difference, however, legislators are a small population, so standard errors are quite high, maybe in a broader application there could be differences.
 
-- **Age on voting score (aauw)**
-   - The coefficient for age is 0.814, indicating that on average as age increases so does aauw voting score.  This relationship however is not statistically significant even at the 90% confidence level.  The age squared term is negative, indicating that the effect of age on AAUW score decreases the older you get.  The the effect 'flips' is ~67.8 years of age.  Again the age squared term is not significant at the 90% confidence level.
+- **Age on the voting score (aauw)**
+   - The coefficient for age is 0.814, indicating that on average as age increases so does aauw voting score.  This relationship however is not statistically significant even at the 90% confidence level.  The age-squared term is negative, indicating that the effect of age on AAUW score decreases the older you get.  The effect 'flips' is ~67.8 years of age.  Again the age-squared term is not significant at the 90% confidence level.
 
 
 ## Conclusion
