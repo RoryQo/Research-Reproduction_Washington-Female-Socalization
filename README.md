@@ -11,6 +11,9 @@
 ## Overview
 This project analyzes data from Ebonya Washington's 2008 paper, "Female Socialization: How Daughters Affect their Legislator Father's Voting on Women's Issues," published in the *American Economic Review*. The study investigates whether having a daughter influences a legislator's voting behavior on women's issues.
 
+For more information, you can [view the full research paper here](https://mpra.ub.uni-muenchen.de/17103/).
+
+
 ## Requirements
 To run this analysis, ensure you have the following R packages installed:
 
