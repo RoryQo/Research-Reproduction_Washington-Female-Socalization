@@ -67,7 +67,7 @@ df_105$repub <- ifelse(df_105$party==2,1,0)
 
 7. **Interpretation**: 
    - Interpret the coefficients from the regression models, focusing on how changes in the number of daughters relate to voting behavior on women's issues. This step also involves assessing the statistical significance of the results.
-   - (further details in conclusion)
+   - (further details in results section)
 
 
 8. **Comparative Analysis**: 
