@@ -75,7 +75,7 @@ df_105$repub <- ifelse(df_105$party==2,1,0)
 - Model A: Model 1
 - Model B: Model 1 on women only
 - Model C: Model 1 on men only
-- Model D: Model 1 with the addition of of $female$, $female\times ngirls$ and $female \times totchi$
+- Model D: Model 1 with the addition of $female$, $female\times ngirls$ and $female \times totchi$
 
 <img src="https://github.com/RoryQo/Research-Reproduction_Washington-Female-Socalization/blob/main/Graph4.jpg?raw=true" alt="Image" width=550px/>
 
