@@ -37,7 +37,7 @@ To run this analysis, ensure you have the following R packages installed:
 
 2. **Data Overview**: 
    - Analyze the initial dataset to understand its structure, including the number of observations and variables. This step involves checking for missing values and assessing the overall data quality.
-   - (full description of the data is available in Ebonya Washington's 2008 paper, "Female Socialization: How Daughters Affect their Legislator Father's Voting on Women's Issues")
+   - (A full description of the data variables is available in Ebonya Washington's 2008 paper, "Female Socialization: How Daughters Affect their Legislator Father's Voting on Women's Issues")
 
 3. **Data Cleaning**: 
    - Filter the dataset to include only observations from the 105th Congress. This step narrows down the analysis to a specific time frame that is relevant to the research question.
