@@ -1,13 +1,14 @@
 <h2 align="center">Reproducing Research: How Daughters Affect Their Legislator Fathers’ Voting on Women’s Issues</h2>      
     
 
-### Table of Contents   
-1. [Overview](#overview)      
-2. [Requirements](#requirements)
-3. [Analysis Steps](#analysis-steps) 
-4. [Results](#results)
-5. [Conclusion](#conclusion) 
-6. [Citations](#citations)
+<p align="center">Table of Contents</p>  
+<p align="center">1. <a href="#overview">Overview</a></p>      
+<p align="center">2. <a href="#requirements">Requirements</a></p>  
+<p align="center">3. <a href="#analysis-steps">Analysis Steps</a></p>  
+<p align="center">4. <a href="#results">Results</a></p>  
+<p align="center">5. <a href="#conclusion">Conclusion</a></p>  
+<p align="center">6. <a href="#citations">Citations</a></p>  
+
 
 ### Overview
 This project reproduces the results from Ebonya Washington's 2008 paper, "Female Socialization: How Daughters Affect their Legislator Father's Voting on Women's Issues," published in the *American Economic Review*, using data from the 105th congress. The study investigates whether having a daughter influences a legislator's voting behavior on women's issues.
