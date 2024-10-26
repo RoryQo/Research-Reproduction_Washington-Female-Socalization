@@ -1,4 +1,4 @@
-## **Reproducing Research: How Daughters Affect Their Legislator Fathers’ Voting on Women’s Issues** 
+<h2 align="center">Reproducing Research: How Daughters Affect Their Legislator Fathers’ Voting on Women’s Issues</h2>
 
 
 ### Table of Contents 
