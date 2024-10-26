@@ -116,3 +116,8 @@ Key insights include:
 Overall, the findings contribute to the broader discourse on gender and politics, suggesting that personal circumstances can play a significant role in shaping policy positions. Future research could expand on these insights by exploring applications to the wider public voter base to further understand the dynamics of female socialization to the general (voting) public.
 
 For any questions or feedback, please feel free to reach out!
+
+### Citations
+
+Washington, Ebonya L. 2008. "Female Socialization: How Daughters Affect Their Legislator Fathers." American Economic Review, 98 (1): 311–32.
+DOI: 10.1257/aer.98.1.311
