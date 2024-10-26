@@ -1,20 +1,20 @@
-## **Recreating Research: How Daughters Affect Their Legislator Fathers’ Voting on Women’s Issues** 
+### **Recreating Research: How Daughters Affect Their Legislator Fathers’ Voting on Women’s Issues** 
 
 
-## Table of Contents 
+### Table of Contents 
 1. [Overview](#overview)
 2. [Requirements](#requirements)
 3. [Analysis Steps](#analysis-steps)
 4. [Results](#results)
 5. [Conclusion](#conclusion)
 
-## Overview
+### Overview
 This project analyzes data from Ebonya Washington's 2008 paper, "Female Socialization: How Daughters Affect their Legislator Father's Voting on Women's Issues," published in the *American Economic Review*. The study investigates whether having a daughter influences a legislator's voting behavior on women's issues.
 
 For more information, you can [view the full research paper here](https://mpra.ub.uni-muenchen.de/17103/).
 
 
-## Requirements
+### Requirements
 To run this analysis, ensure you have the following R packages installed:
 
 - `tinytex`
@@ -26,7 +26,7 @@ To run this analysis, ensure you have the following R packages installed:
 - `kableExtra`
 - `RColorBrewer`
 
-## Analysis Steps
+### Analysis Steps
 1. **Setup**: 
    - Configure the R environment for code chunk options to ensure that all code is executed with consistent settings, such as displaying code output.
 
@@ -88,7 +88,7 @@ df_105$repub <- ifelse(df_105$party==2,1,0)
 
 <img src="https://github.com/RoryQo/Research-Reproduction_Washington-Female-Socalization/blob/main/graph3.jpg?raw=true" alt="Image" width=500px/>
 
-## Results
+### Results
 
 - **Personal gender of the legislator on the voting score (aauw)**
 
@@ -98,7 +98,7 @@ df_105$repub <- ifelse(df_105$party==2,1,0)
    - The coefficient for age is 0.814, indicating that on average as age increases so does aauw voting score.  This relationship however is not statistically significant even at the 90% confidence level.  The age-squared term is negative, indicating that the effect of age on AAUW score decreases the older you get.  The effect 'flips' is ~67.8 years of age.  Again the age-squared term is not significant at the 90% confidence level.
 
 
-## Conclusion
+### Conclusion
 This analysis seeks to replicate and extend the findings of Washington's original research by providing a detailed examination of how familial factors, specifically the presence of daughters, influence legislative behavior on women's issues.
 
 Key insights include:
