@@ -9,7 +9,7 @@
     <td>1. <a href="#overview">Overview</a></td>
     <td>4. <a href="#results">Results</a></td>
   </tr>
-  <tr>
+  <tr> 
     <td>2. <a href="#requirements">Requirements</a></td>
     <td>5. <a href="#conclusion">Conclusion</a></td>
   </tr>
