@@ -5,7 +5,8 @@
 1. [Overview](#overview)
 2. [Requirements](#requirements)
 3. [Analysis Steps](#analysis-steps)
-4. [Conclusion](#conclusion)
+4. [Results](#results)
+5. [Conclusion](#conclusion)
 
 ## Overview
 This project analyzes data from Ebonya Washington's 2008 paper, "Female Socialization: How Daughters Affect their Legislator Father's Voting on Women's Issues," published in the *American Economic Review*. The study investigates whether having a daughter influences a legislator's voting behavior on women's issues.
@@ -66,11 +67,8 @@ df_105$repub <- ifelse(df_105$party==2,1,0)
 
 7. **Interpretation**: 
    - Interpret the coefficients from the regression models, focusing on how changes in the number of daughters relate to voting behavior on women's issues. This step also involves assessing the statistical significance of the results.
+   - (further details in conclusion)
 
-      - **Personal gender of the legislator on voting score (aauw)**
-         - the interaction term with number of daughters is not significant indicating that there isnt a significantly different effect on voting behaviors between male and female legislators based on the number of daughters they have (holding all else constant. Additionally the interaction term of total children is not significant, indicating that there is not a significantly different effect on voting score between male and female legislators based on  the total number of children(holding all else constant).  In short no evidence that there is a difference, however legislators are a small population, so standard errors are quite high, maybe in a broader application there could be differences.
-      - **Age on voting score (aauw)**
-         - The coefficient for age is 0.814, indicating that on average as age increases so does aauw voting score.  This relationship however is not statistically significant even at the 90% confidence level.  The age squared term is negative, indicating that the effect of age on AAUW score decreases the older you get.  The the effect 'flips' is ~67.8 years of age.  Again the age squared term is not significant at the 90% confidence level.
 
 8. **Comparative Analysis**: 
    - Investigate potential differences in the effects of having daughters on male versus female legislators. This includes estimating separate models for each group and analyzing interaction effects to determine if the influence of daughters differs based on the legislator's gender.
@@ -86,6 +84,13 @@ df_105$repub <- ifelse(df_105$party==2,1,0)
    - Generate visual representations of the data and analysis results, such as bar charts and regression plots. These visualizations aid in communicating findings effectively and highlight important trends and relationships.
 
 <img src="https://github.com/RoryQo/Research-Reproduction_Washington-Female-Socalization/blob/main/graph3.jpg?raw=true" alt="Image" width=500px/>
+
+## Results
+
+- **Personal gender of the legislator on voting score (aauw)**
+         - the interaction term with number of daughters is not significant indicating that there isnt a significantly different effect on voting behaviors between male and female legislators based on the number of daughters they have (holding all else constant. Additionally the interaction term of total children is not significant, indicating that there is not a significantly different effect on voting score between male and female legislators based on  the total number of children(holding all else constant).  In short no evidence that there is a difference, however legislators are a small population, so standard errors are quite high, maybe in a broader application there could be differences.
+      - **Age on voting score (aauw)**
+         - The coefficient for age is 0.814, indicating that on average as age increases so does aauw voting score.  This relationship however is not statistically significant even at the 90% confidence level.  The age squared term is negative, indicating that the effect of age on AAUW score decreases the older you get.  The the effect 'flips' is ~67.8 years of age.  Again the age squared term is not significant at the 90% confidence level.
 
 
 ## Conclusion
