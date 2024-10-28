@@ -1,7 +1,7 @@
 <h2 align="center">Reproducing Research: How Daughters Affect Their Legislator Fathers’ Voting on Women’s Issues</h2>          
             
           
-<table align="center">   
+<table align="center">    
   <tr>  
     <td colspan="2" align="center"><strong>Table of Contents</strong></td> 
   </tr>
