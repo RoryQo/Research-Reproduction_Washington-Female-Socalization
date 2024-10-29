@@ -125,7 +125,7 @@ Key insights include:
 
 Overall, the findings contribute to the broader discourse on gender and politics, suggesting that personal circumstances can play a significant role in shaping policy positions. Future research could expand on these insights by exploring applications to the wider public voter base to further understand the dynamics of female socialization to the general (voting) public.
 
-For any questions or feedback, please feel free to reach out!
+For any questions or feedback, please feel free to reach out or connect with me on linkedIn!
 
 ### Citations
 
