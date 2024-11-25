@@ -57,7 +57,7 @@ To run this analysis, ensure you have the following R packages installed:
 4. **Summary Statistics**: 
    - Generate summary statistics for the cleaned dataset. This involves calculating means, medians, standard deviations, and other descriptive statistics to provide insights into the distribution and central tendencies of key variables.
 
-<img src="https://github.com/RoryQo/Research-Reproduction_Washington-Female-Socalization/blob/main/Graph1.jpg?raw=true" alt="Image" width=450px/>
+<img src="https://github.com/RoryQo/Research-Reproduction_Washington-Female-Socalization/blob/main/Figures/Graph1.jpg" alt="Image" width=450px/>
 
 5. **Variable Generation**: 
    - Create new variables necessary for analysis, such as binary indicators for political party affiliation and squared terms for age. This step enhances the model’s ability to capture relationships in the data effectively.
@@ -81,7 +81,7 @@ df_105$repub <- ifelse(df_105$party==2,1,0)
      aauw_i = \beta_0 + \beta_1 ngirls_i + \beta_2 totchi + \beta_3 female_i + \beta_4 repub_i + \beta_5 age_i + \beta_6 age_i^2 + \epsilon_i
      ```
 <br>
-<img src="https://github.com/RoryQo/Research-Reproduction_Washington-Female-Socalization/blob/main/Graph2.jpg?raw=true" alt="Image" width=550px/>
+<img src="https://github.com/RoryQo/Research-Reproduction_Washington-Female-Socalization/blob/main/Figures/Graph2.jpg" alt="Image" width=550px/>
 
 
 7. **Interpretation**: 
@@ -96,13 +96,13 @@ df_105$repub <- ifelse(df_105$party==2,1,0)
 - Model C: Model 1 on men only
 - Model D: Model 1 with the addition of $female$, $female\times ngirls$ and $female \times totchi$
 
-<img src="https://github.com/RoryQo/Research-Reproduction_Washington-Female-Socalization/blob/main/Graph4.jpg?raw=true" alt="Image" width=550px/>
+<img src="https://github.com/RoryQo/Research-Reproduction_Washington-Female-Socalization/blob/main/Figures/Graph4.jpg" alt="Image" width=550px/>
 
 
 9. **Visualization**: 
    - Generate visual representations of the data and analysis results, such as bar charts and regression plots. These visualizations aid in communicating findings effectively and highlight important trends and relationships.
 
-<img src="https://github.com/RoryQo/Research-Reproduction_Washington-Female-Socalization/blob/main/Graph3.jpg?raw=true" alt="Image" width=500px/>
+<img src="https://github.com/RoryQo/Research-Reproduction_Washington-Female-Socalization/blob/main/Figures/Graph3.jpg" alt="Image" width=500px/>
 
 ### Results
 
